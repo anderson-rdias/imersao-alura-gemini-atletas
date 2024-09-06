@@ -1,4 +1,4 @@
-### ** Atletas do Brasil: Encontre seus ídolos!**
+### Atletas do Brasil: Encontre seus ídolos!
 
 **O que faz essa aplicação?**
 
