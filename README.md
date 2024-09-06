@@ -2,7 +2,7 @@
 
 **O que faz essa aplicação?**
 
-Essa aplicação simples e divertida te ajuda a descobrir mais sobre os atletas brasileiros que você mais admira! 🇧🇷 Basta digitar o nome do atleta que você quer saber mais e pronto! Você terá acesso a informações como:
+Essa aplicação simples e divertida te ajuda a descobrir mais sobre os atletas brasileiros que você mais admira! 🇧🇷 Basta digitar o nome do atleta ou palavras-chave do esporte do atleta desejado que você quer saber mais e pronto! Você terá acesso a informações como:
 
 * **Nome do atleta:** Um link para o perfil nas redes sociais para você ficar por dentro de tudo.
 * **Descrição:** Uma breve biografia do atleta, destacando suas principais conquistas.
@@ -19,6 +19,10 @@ Essa aplicação simples e divertida te ajuda a descobrir mais sobre os atletas 
 * **HTML:** A estrutura da página, onde tudo acontece!
 * **CSS:** A responsável por deixar tudo bonitinho e organizado.
 * **JavaScript:** A mágica por trás da busca, fazendo com que tudo funcione como um encanto.
+
+**Melhorias em relação ao aprendido na aula:**
+* **keypress:** O sistema possui uma função de eventlistener() para o keypress, assim a pesquisa também ocorre quando teclado a tecla ENTER.
+* **Método trim:** Caso a pesquisa seja vazia ou apenas com um "espaço" digitado, o método trim() retornará que a pesquisa é nula e uma mensagem informando para digitar uma pesquisa válida!
 
 **Como contribuir?**
 
@@ -51,5 +55,3 @@ Este projeto está licenciado sob a licença MIT. Você é livre para usar, modi
 **Vamos juntos torcer pelo Brasil!** 🇧🇷
 
 **#AtletasDoBrasil #DesenvolvimentoWeb #JavaScript #HTML #CSS**
-
-**Observação:** Adapte este README.md para incluir informações mais específicas sobre o seu projeto, como o nome do repositório, as tecnologias utilizadas em detalhes, e qualquer outra informação relevante.
