@@ -1,5 +1,3 @@
-## **README.md Descontraído para sua Aplicação de Pesquisa de Atletas**
-
 ### ** Atletas do Brasil: Encontre seus ídolos!**
 
 **O que faz essa aplicação?**
